@@ -1,0 +1,33 @@
+{
+  "name": "nanocyte-node-range",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "octoblu/nanocyte-node-range"
+  },
+  "keywords": [
+    "octoblu",
+    "meshblu",
+    "IoT",
+    "nanocyte"
+  ],
+  "author": "sqrt@octoblu.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/nanocyte-node-range/issues"
+  },
+  "homepage": "https://github.com/octoblu/nanocyte-node-range/readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "lodash": "^3.10.1",
+    "coffee-script": "^1.10.0",
+    "mocha": "^2.3.2",
+    "sinon": "^1.16.1",
+    "sinon-chai": "^2.8.0"
+  }
+}

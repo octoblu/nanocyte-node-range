@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- '0.10'
+deploy:
+  provider: npm
+  email: 
+  api_key: ""
+  on:
+    tags: true
+    all_branches: true
